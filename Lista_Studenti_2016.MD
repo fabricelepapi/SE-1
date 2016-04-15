@@ -27,7 +27,7 @@ Grupa: 1220F
 |Tudor Georgiana|https://github.com/tudorgabriela/ALF|https://github.com/tudorgabriela/SE|
 |Ursachi Tudor|https://github.com/TudorUrsachi9505/ALF|https://github.com/TudorUrsachi9505/SE|
 |Varasteanu Marius|https://github.com/wreckerr/ALF|https://github.com/wreckerr/SDE|
-|Ndeme Fabrice|https://github.com/fabricelepapi||
+|Ndeme Fabrice|https://github.com/fabricelepapi||https://github.com/fabricelepapi/SE
 
 Grupa: 1221F
 
